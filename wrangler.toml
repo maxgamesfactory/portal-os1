@@ -1,6 +1,6 @@
 name = "portal-os1"
 main = "apps/worker/src/index.ts"
-compatibility_date = "2026-04-01"
+compatibility_date = "2026-10-30"
 
 [vars]
 ENV = "production"
